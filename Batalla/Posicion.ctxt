@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Aug 23 20:31:04 COT 2026
+comment0.target=Posicion
+comment1.params=longitud latitud
+comment1.target=Posicion(int, int)
+comment2.target=int getLongitud()
+comment3.target=int getLatitud()
+numComments=4

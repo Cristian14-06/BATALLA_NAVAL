@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sun Aug 23 20:31:07 COT 2026
+comment0.target=Avion
+comment1.params=placa enAire tripulantesMinimos puntaje
+comment1.target=Avion(java.lang.String, boolean, int, int)
+comment2.target=java.lang.String getPlaca()
+comment3.target=boolean isEnAire()
+comment4.target=int getTripulantesMinimos()
+comment5.target=int getPuntaje()
+comment6.params=puntaje
+comment6.target=void setPuntaje(int)
+numComments=7

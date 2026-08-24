@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sun Aug 23 20:31:07 COT 2026
+comment0.target=Flota
+comment1.params=nombre codigo
+comment1.target=Flota(java.lang.String, java.lang.String)
+comment2.target=java.lang.String getCodigo()
+comment3.target=boolean problemaEnAire()
+comment4.params=longitud latitud
+comment4.target=boolean esBuenAtaque(int, int)
+comment5.params=longitud latitud
+comment5.target=java.util.ArrayList seranDestruidas(int, int)
+numComments=6

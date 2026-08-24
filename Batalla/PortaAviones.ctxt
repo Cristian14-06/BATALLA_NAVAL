@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Aug 23 20:31:07 COT 2026
+comment0.target=PortaAviones
+comment1.params=numero capacidad tripulantesMinimos puntaje
+comment1.target=PortaAviones(int, int, int, int)
+comment2.target=int getTripulantesMinimos()
+comment3.target=int getPuntaje()
+comment4.params=puntaje
+comment4.target=void setPuntaje(int)
+numComments=5
