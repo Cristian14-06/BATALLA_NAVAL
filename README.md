@@ -10,7 +10,7 @@ Proyecto desarrollado en Java.
 
 
 
-\- `fuente/`: código fuente Java.
+\- `Batalla/`: código fuente Java.
 
 \- `astah/`: diagramas UML realizados en Astah.
 
